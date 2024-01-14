@@ -1,0 +1,17 @@
+Cores letra:
+	Titulos : verde
+	Texto : preto
+	Letras dentro da caixas user e passowrd : cinza
+Subsituir palavra passs por password
+Titulos todos com Bold
+Verificar alinhamentos 
+Aumentar altura dosn filtros de pesquisa
+Alinhar definições
+Estádio leva acento
+Mockup com o calendário visivel
+Menu de Jogos-Direções e Estadio alinhar e ver espaçamentio entre eles
+Trocar botão "Abrir no google " por icone maps e colocar junto do icone "Ecrã inteiro"
+Retirar barra horizontal na aba estacionamento (1 barra de cima para baixo)
+
+
+
